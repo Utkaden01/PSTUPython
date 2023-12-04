@@ -1,0 +1,345 @@
+[
+  {
+    "name": "Russia",
+    "capital": "Moscow",
+    "population": 144000000,
+    "languages": ["Russian"],
+    "area": 17098242
+  },
+  {
+    "name": "USA",
+    "capital": "Washington D.C.",
+    "population": 331000000,
+    "languages": ["English"],
+    "area": 9629091
+  },
+  {
+    "name": "China",
+    "capital": "Beijing",
+    "population": 1393000000,
+    "languages": ["Chinese"],
+    "area": 9640011
+  },
+  {
+    "name": "Germany",
+    "capital": "Berlin",
+    "population": 83100000,
+    "languages": ["German"],
+    "area": 357022
+  },
+  {
+    "name": "France",
+    "capital": "Paris",
+    "population": 67300000,
+    "languages": ["French"],
+    "area": 551695
+  },
+  {
+    "name": "Japan",
+    "capital": "Tokyo",
+    "population": 126000000,
+    "languages": ["Japanese"],
+    "area": 377975
+  },
+  {
+    "name": "Italy",
+    "capital": "Rome",
+    "population": 60300000,
+    "languages": ["Italian"],
+    "area": 301340
+  },
+  {
+    "name": "Australia",
+    "capital": "Canberra",
+    "population": 25400000,
+    "languages": ["English"],
+    "area": 7692024
+  },
+  {
+    "name": "Canada",
+    "capital": "Ottawa",
+    "population": 37600000,
+    "languages": ["English", "French"],
+    "area": 9976140
+  },
+  {
+    "name": "India",
+    "capital": "New Delhi",
+    "population": 1366000000,
+    "languages": ["Hindi", "English"],
+    "area": 3287590
+  },
+  {
+    "name": "Spain",
+    "capital": "Madrid",
+    "population": 46900000,
+    "languages": ["Spanish"],
+    "area": 505992
+  },
+  {
+    "name": "Brazil",
+    "capital": "Brasília",
+    "population": 211000000,
+    "languages": ["Portuguese"],
+    "area": 8515767
+  },
+  {
+    "name": "Mexico",
+    "capital": "Mexico City",
+    "population": 126000000,
+    "languages": ["Spanish"],
+    "area": 1964375
+  },
+  {
+    "name": "South Korea",
+    "capital": "Seoul",
+    "population": 51700000,
+    "languages": ["Korean"],
+    "area": 100210
+  },
+  {
+    "name": "Indonesia",
+    "capital": "Jakarta",
+    "population": 267000000,
+    "languages": ["Indonesian"],
+    "area": 1910931
+  },
+  {
+    "name": "Turkey",
+    "capital": "Ankara",
+    "population": 83100000,
+    "languages": ["Turkish"],
+    "area": 783356
+  },
+  {
+    "name": "Netherlands",
+    "capital": "Amsterdam",
+    "population": 17400000,
+    "languages": ["Dutch"],
+    "area": 41543
+  },
+  {
+    "name": "Switzerland",
+    "capital": "Bern",
+    "population": 8570000,
+    "languages": ["German", "French", "Italian", "Romansh"],
+    "area": 41290
+  },
+  {
+    "name": "Sweden",
+    "capital": "Stockholm",
+    "population": 10100000,
+    "languages": ["Swedish"],
+    "area": 450295
+  },
+  {
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "population": 45300000,
+    "languages": ["Spanish"],
+    "area": 2780400
+  },
+  {
+    "name": "Belgium",
+    "capital": "Brussels",
+    "population": 11400000,
+    "languages": ["Dutch", "French", "German"],
+    "area": 30528
+  },
+  {
+    "name": "Norway",
+    "capital": "Oslo",
+    "population": 5390000,
+    "languages": ["Norwegian"],
+    "area": 323802
+  },
+  {
+    "name": "Austria",
+    "capital": "Vienna",
+    "population": 8820000,
+    "languages": ["German"],
+    "area": 83855
+  },
+  {
+    "name": "Israel",
+    "capital": "Jerusalem",
+    "population": 8710000,
+    "languages": ["Hebrew", "Arabic"],
+    "area": 20770
+  },
+  {
+    "name": "Poland",
+    "capital": "Warsaw",
+    "population": 38300000,
+    "languages": ["Polish"],
+    "area": 312696
+  },
+  {
+    "name": "Denmark",
+    "capital": "Copenhagen",
+    "population": 5790000,
+    "languages": ["Danish"],
+    "area": 43094
+  },
+  {
+    "name": "Singapore",
+    "capital": "Singapore",
+    "population": 5810000,
+    "languages": ["English", "Malay", "Tamil", "Chinese"],
+    "area": 710
+  },
+  {
+    "name": "Thailand",
+    "capital": "Bangkok",
+    "population": 69400000,
+    "languages": ["Thai"],
+    "area": 513120
+  },
+  {
+    "name": "Egypt",
+    "capital": "Cairo",
+    "population": 104000000,
+    "languages": ["Arabic"],
+    "area": 1002450
+  },
+  {
+    "name": "Greece",
+    "capital": "Athens",
+    "population": 10700000,
+    "languages": ["Greek"],
+    "area": 131957
+  },
+  {
+    "name": "Czech Republic",
+    "capital": "Prague",
+    "population": 10600000,
+    "languages": ["Czech"],
+    "area": 78867
+  },
+  {
+    "name": "Iran",
+    "capital": "Tehran",
+    "population": 81000000,
+    "languages": ["Persian"],
+    "area": 1648195
+  },
+  {
+    "name": "Ireland",
+    "capital": "Dublin",
+    "population": 4920000,
+    "languages": ["Irish", "English"],
+    "area": 70273
+  },
+  {
+    "name": "Saudi Arabia",
+    "capital": "Riyadh",
+    "population": 34200000,
+    "languages": ["Arabic"],
+    "area": 2149690
+  },
+  {
+    "name": "Portugal",
+    "capital": "Lisbon",
+    "population": 10200000,
+    "languages": ["Portuguese"],
+    "area": 92090
+  },
+  {
+    "name": "Hungary",
+    "capital": "Budapest",
+    "population": 9770000,
+    "languages": ["Hungarian"],
+    "area": 93029
+  },
+  {
+    "name": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "population": 32000000,
+    "languages": ["Malay"],
+    "area": 330803
+  },
+  {
+    "name": "South Africa",
+    "capital": "Pretoria",
+    "population": 56700000,
+    "languages": ["Afrikaans", "English", "Zulu", "Xhosa", "Sotho"],
+    "area": 1221037
+  },
+  {
+    "name": "Finland",
+    "capital": "Helsinki",
+    "population": 5510000,
+    "languages": ["Finnish", "Swedish"],
+    "area": 338424
+  },
+  {
+    "name": "Chile",
+    "capital": "Santiago",
+    "population": 19200000,
+    "languages": ["Spanish"],
+    "area": 756102
+  },
+  {
+    "name": "Colombia",
+    "capital": "Bogotá",
+    "population": 50800000,
+    "languages": ["Spanish"],
+    "area": 1138910
+  },
+  {
+    "name": "Vietnam",
+    "capital": "Hanoi",
+    "population": 97000000,
+    "languages": ["Vietnamese"],
+    "area": 331212
+  },
+  {
+    "name": "New Zealand",
+    "capital": "Wellington",
+    "population": 4810000,
+    "languages": ["English", "Māori"],
+    "area": 270467
+  },
+  {
+    "name": "Romania",
+    "capital": "Bucharest",
+    "population": 19500000,
+    "languages": ["Romanian"],
+    "area": 238397
+  },
+  {
+    "name": "Philippines",
+    "capital": "Manila",
+    "population": 107000000,
+    "languages": ["Filipino", "English"],
+    "area": 300000
+  },
+  {
+    "name": "Pakistan",
+    "capital": "Islamabad",
+    "population": 212000000,
+    "languages": ["Urdu", "English"],
+    "area": 881912
+  },
+  {
+    "name": "Ukraine",
+    "capital": "Kyiv",
+    "population": 44100000,
+    "languages": ["Ukrainian"],
+    "area": 603549
+  },
+  {
+    "name": "Kazakhstan",
+    "capital": "Nur-Sultan",
+    "population": 18800000,
+    "languages": ["Kazakh", "Russian"],
+    "area": 2724900
+  },
+  {
+    "name": "Bangladesh",
+    "capital": "Dhaka",
+    "population": 169000000,
+    "languages": ["Bengali"],
+    "area": 147570
+  }
+]
